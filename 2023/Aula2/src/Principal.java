@@ -42,6 +42,7 @@ public class Principal {
 		}else {
 			System.out.println("O triangulo eh Isósceles");
 		}
+		
 	}
 	
 }
